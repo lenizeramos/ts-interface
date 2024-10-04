@@ -1,0 +1,15 @@
+{
+  "name": "wad-203-typescript-interface",
+  "version": "1.0.0",
+  "description": "Welcome to interfaces in TypeScript! In this exercise, you will practice your new skills in TypeScript!",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
